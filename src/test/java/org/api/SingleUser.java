@@ -28,9 +28,15 @@ public class SingleUser {
 		
 		String asPrettyString = body.asPrettyString();
 		System.out.println(asPrettyString);
-		
+    
 		System.out.println("================");
 		System.out.println("Sample project");
+
+		System.out.println("==============");
+		System.out.println("Conflict method");
+		String asString2 = body.asString();
+		System.out.println(asString2);
+
 		
 
 	}
