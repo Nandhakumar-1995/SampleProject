@@ -28,6 +28,10 @@ public class SingleUser {
 		
 		String asPrettyString = body.asPrettyString();
 		System.out.println(asPrettyString);
+		
+		System.out.println("================");
+		System.out.println("Sample project");
+		
 
 	}
 
